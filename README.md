@@ -60,7 +60,7 @@
   Prettier
 </h2>
 <p>
-  O Prettier é uma ferramenta de formatação de código que ajuda a manter a consistência e a legibilidade do código em projetos de desenvolvimento de software. 
+  O Prettier é uma ferramenta de formatação de código que ajuda a manter a consistência e a legibilidade do código em projetos de desenvolvimento de software.
 </p>
 
 <p>
@@ -78,7 +78,7 @@
   Eslint
 </h2>
 <p>
-O ESLint é uma ferramenta de análise de código estática amplamente utilizada na comunidade de desenvolvimento de software. 
+O ESLint é uma ferramenta de análise de código estática amplamente utilizada na comunidade de desenvolvimento de software.
 </p>
 
 <p>
@@ -98,7 +98,7 @@ Ele é projetado para ajudar os desenvolvedores a identificar e corrigir problem
   Jest
 </h2>
 <p>
-O Jest é um framework de testes de JavaScript amplamente utilizado para testar aplicativos e bibliotecas JavaScript. 
+O Jest é um framework de testes de JavaScript amplamente utilizado para testar aplicativos e bibliotecas JavaScript.
 </p>
 
 <p>
@@ -112,5 +112,3 @@ Ele foi desenvolvido para ser fácil de configurar e usar, fornecendo uma ampla 
 ```
 
 ---
-
-Por ♥ Dener Troquatte :wave: [Linkedin!](https://www.linkedin.com/in/dener-s%C3%A3o-pedro-troquatte-ababa079/) | [Blog!](https://vidafullstack.com.br/)
